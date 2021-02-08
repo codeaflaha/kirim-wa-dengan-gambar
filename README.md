@@ -7,7 +7,13 @@ data nomer dan isi pesan dari file csv...
 kenapa gak pakai selenium?
 
 biar gak perlu scan berkali2
+
+
+
 NB : khusus ukuran monitor width=1366, height=768
      karena klik attachment mengandalakan posisi x dan y monitor
+     
+     
+     
 ada yg ditanyakan
 send me email : gmail@najamuddindwi.com
