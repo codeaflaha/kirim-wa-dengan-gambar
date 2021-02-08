@@ -11,8 +11,8 @@ biar gak perlu scan berkali2
 
 
 NB : 1. khusus ukuran monitor width=1366, height=768 karena klik attachment mengandalakan posisi x dan y monitor
-     2. install module pandas dan pyautogui
-     3. ganti posisi file csv dan posisi dan nama gambar
+     <br>2. install module pandas dan pyautogui
+     <br>3. ganti posisi file csv dan posisi dan nama gambar
      
      
      
